@@ -7,6 +7,17 @@
   pointer-events: none;
 }
 
+.inputField {
+  margin: 20px;
+}
+
+.header {
+  color: #fff;
+  background-color: #673ab7;
+  min-height: 64px;
+  padding: 10px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
